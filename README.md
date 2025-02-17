@@ -1,5 +1,3 @@
-﻿<h1>CAT intermediate backend</h1>
-<h2>API task</h2>
 <p>
 Using ASP.NET Core 9.0 to make TODO List Api
 </p>
